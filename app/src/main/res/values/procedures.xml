@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Allergies">
+        <b>\nWhat are allergies and what should you do in case of one:\n\n</b>
+An allergy is an abnormal reaction of the body\’s defense system, immune response, to a normally harmless trigger-substance (or allergen).\n
+        An allergy can present itself as a mild itching, swelling, wheezing, or digestive condition, or\n
+        can progress to full-blown anaphylaxis, or anaphylactic shock(opposite), which can occur within seconds or minutes of exposure to an offending allergen.\n\n
+Common allergy triggers include pollen, dust, nuts,shellfish,\n eggs, wasp and bee stings, latex, and certain medications.\n
+        Skin changes can be subtle, absent, or variable in some cases.\n
+        <b>What to do:\n\n</b>
+1.Assess the casualty\'s signs and symptoms. Ask if she has any known allergy.\n
+2.Remove the trigger if possible, or move the casualty from the trigger.\n
+3.Treat any symptoms. Allow the casualty to take their own medication for a known allergy.\n\n
+In case of Anaphylaxis:\n
+1.Call 999 for emergency help. Tell the dispatcher that you suspect anaphylaxis.\n
+2.If the casualty has an autoSTXinjector of epinephrine, help them use it. \nIf They are unable to take the medication, administer it to
+her yourself.\n Pull off the safety cap and, holding the injector with your fist, push the tip firmly against the casualty\'s thigh until it clicks, releasing the
+medication (it can be delivered through clothing).\n Hold for ten seconds, remove the autoinjector, then massage the injection site for ten seconds.\n
+3.Help the casualty sit up in the position that best relieves any breathing difficulty.\n
+If they become pale with a weak pulse, help them lie down with legs raised and treat for shock.
+4.Monitor and record vital signs—level of response,breathing, and pulse while waiting for help to arrive.\n Repeated doses of
+epinephrine can be given at five-minute intervals if there is no improvement or the symptoms return.
+    </string>
+    <string name="Asthma_Attack">
+        <b>Asthma\n\n</b>
+ In an asthma attack, the muscles of the air passages in the lungs go into spasm. As a result, the airways become narrowed, which makes breathing difficult.\n
+  Recognition:\n\n
+1.Difficulty breathing\n
+2.Wheezing\n
+3. Difficulty speaking, leading to short sentences and whispering\n
+4. Coughing\n
+5. Distress and anxiety\n
+   What to do:\n\n
+1.Keep calm and reassure the casualty. Get them to take her usual dose of their inhaler;  Ask her to breathe slowly and deeply.\n
+2.Sit them down in the position they finds most comfortable;do not let them lie down.\n
+3.A mild attack should ease in a few minutes. If it does not,ask the casualty to take another dose from her inhaler.
+4.Call for emergency help if the attack is severe and any of the following occur:\n the inhaler has no effect; \nthe
+casualty is getting worse\n;breathlessness makes talking hard\n; she becomes exhausted\n.
+    </string>
+    <string name="Bleeding">
+      <b>What to do if someone is bleeding:\n\n</b>
+      1. Press it:
+Apply direct pressure to the wound using a sterile dressing if possible or a clean non-fluffy cloth.\n
+2. Call 999 for emergency help\n
+3. Firmly secure dressing with a bandage\n
+4. Treat for shock\n
+5. Support the injured part\n
+  </string>
+    <string name ="Broken_Bone">
+        <b>What to do for someone with a broken bone:\n\n</b>
+1.If you suspect a bone is broken, immobilize the affected area immediately by using a splint or sling to prevent any further movement or injury.\n
+2.Apply ice to reduce swelling and pain.\n
+3.Seek medical attention as soon as possible.\n
+    </string>
+    <string name ="Burns">
+ <b>What are the different types of burns?\n\n</b>
+Grabbing a hot pot or splashing boiling water on your skin are just two common causes of burns around the house. When you get a burn, first check to see which type it is. Some are more serious than others.\n
+1.	First-degree burns are painful but minor. They turn red and may swell.\n
+2.	Second-degree burns form blisters. The skin may be very red and painful.\n
+3.	Third-degree burns make the skin look white or charred. The burns may not hurt because nerves have been damaged.\n\n
+    <b>How do I treat burns?\n\n</b>
+You can treat minor first-degree burns and small second-degree burns at home. Here’s what to do:\n
+1.	Place the burned area under running cool water for at least 5 minutes to reduce swelling.\n
+2.	Apply an antiseptic spray, antibiotic ointment, or aloe vera cream to soothe the area.\n
+3.	Loosely wrap a gauze bandage around the burn.\n
+4.	To relieve pain, take acetaminophen, ibuprofen, or naproxen.\n
+Never put butter on a burn or pop any blisters that form. You could damage the skin and cause an infection.\n
+    </string>
+    <string name ="Choking">
+        <b>What to do if someone is Choking\n\n</b>
+Choking occurs when something blocks the airway, preventing air from getting to the lungs. Here are the first aid steps for choking:\n
+1.Ask the person if they are choking: If they cannot speak, cough, or breathe, assume they are choking.\n
+2.Perform abdominal thrusts: Stand behind the person and wrap your arms around their waist. Make a fist with one hand and place it just above the person\'s navel, thumb side in. Grasp the fist with the other hand and press it inward and upward.\n
+        Repeat thrusts until the object is dislodged or the person becomes unconscious.\n
+3.Call for emergency medical services (EMS): If the person becomes unconscious or cannot breathe, call EMS or 999 immediately.\n
+    </string>
+    <string name ="Diabetic_Emergency">
+        <b>What to do for someone in a diabetic emergency:\n\n</b>
+A diabetic emergency occurs when blood sugar levels are too high or too low. Here are the first aid steps for a diabetic emergency:\n
+1.Recognize the symptoms: Symptoms of a diabetic emergency may include confusion, sweating, shaking, and rapid heartbeat.\n
+2.Check blood sugar levels: If the person is able to check their own blood sugar levels, have them do so.\n
+3.Administer sugar: If the person\'s blood sugar levels are low, give them a sugary drink or food, such as juice, candy, or a glucose gel.\n
+4.Call for emergency medical services EMS: If the person does not improve or their condition worsens, call EMS or 999.\n
+    </string>
+    <string name ="Distress">
+        <b>What to for someone in emotional distress:\n\n</b>
+Distress is a state of emotional or mental suffering. Here are the first aid steps for distress:\n
+1.Provide emotional support: Listen to the person, offer words of comfort, and let them know you are there for them.\n
+2.Encourage the person to seek help: Suggest that they speak to a mental health professional or call a helpline.\n
+    </string>
+    <string name ="Head_Injury">
+          <b>What to do if you suspect someone has a head injury:\n\n</b>
+A head injury can range from mild to severe and can cause symptoms such as headache, dizziness, and confusion. Here are the first aid steps for a head injury:\n
+1.Check for consciousness: If the person is unconscious, call for emergency medical services (EMS) or 999 immediately.\n
+2.Apply pressure: \nIf the person is bleeding from the head\n, apply pressure to the wound with a clean cloth.\n
+3.Monitor for symptoms: Watch for symptoms such as headache, dizziness, and confusion, and seek medical attention if they occur or worsen.\n
+    </string>
+    <string name="Heart_Attack">
+          <b>What to if you suspect someone is having a heart attack:\n\n</b>
+A heart attack occurs when blood flow to the heart is blocked. Here are the first aid steps for a heart attack:\n
+1.Call for emergency medical services (EMS) or 999 immediately.\n
+2.Have the person sit down: If the person is conscious and able to sit down, have them do so.\n
+3.Administer aspirin: If the person is able to take aspirin, have them chew and swallow one 325-milligram tablet.\n
+4.Monitor for symptoms: Watch for symptoms such as chest pain, shortness of breath, and nausea, and seek medical attention if they occur or worsen.\n
+    </string>
+    <string name = "Heat_Stroke">
+          <b>What to do for someone experiencing a heatstroke\n\n</b>
+Heat stroke is a serious condition that occurs when the body\'s temperature regulation system fails. Here are the first aid steps for heat stroke:\n
+1.Move the person to a cool, shaded area.\n
+2.Remove excess clothing: Remove any unnecessary clothing and fan the person to help cool them down.\n
+3.Provide water: Have the person drink water or a sports drink if they are able to.\n
+4.Call for emergency medical services (EMS) or 999 immediately.\n
+    </string>
+    <string name="Hypothermia">
+          <b>What to do for someone experiencing hypothermia\n\n</b>
+1.Call for emergency medical help immediately.\n
+2.Move the person to a warm, dry area.\n
+3.Remove any wet clothing and wrap the person in warm, dry blankets or clothing.\n
+4.Provide warmth: If possible, place the person in a warm bath or wrap them in a warmed blanket or sleeping bag.\n
+5.Provide warm, sweetened drinks: Offer warm, sweetened drinks to the person if they are conscious.\n
+6.Call for emergency medical services (EMS) or 999 immediately\n
+    </string>
+    <string name="Poisoning_or_Harmful_Substances">
+          <b>What to do when someone comes into contact with poisonous substances\n\n</b>
+1.Poisoning can occur when a person ingests, inhales, or comes into contact with a toxic substance. Here are the first aid steps for poisonous substances:\n
+2.Call the poison control center: If the person has ingested a poison, call the poison control center immediately.\n
+3.Remove the person from the source of poison: If possible, remove the person from the area where the poison was ingested or inhaled.\n
+4.Follow instructions: Follow any instructions given by the poison control center or emergency medical services (EMS).\n
+    </string>
+    <string name="Seizure_or_Epilepsy">
+        <b>What to do when someone is having a seizure\n\n</b>
+        A seizure is a sudden and uncontrolled electrical disturbance in the brain that can cause convulsions, loss of consciousness, and other symptoms. Here are the first aid steps for a seizure:\n
+1.Protect the person from injury: Clear the area around the person to prevent injury.\n
+2.Time the seizure: Note the time when the seizure starts and ends.\n
+3.Stay with the person: Stay with the person until the seizure ends.\n
+4.Call for emergency medical services  or 999 if the seizure lasts longer than five minutes or if the person does not regain consciousness after the seizure.\n
+    </string>
+    <string name="Shock">
+        <b>What to do when someone is in shock?\n\n</b>
+        Shock occurs when the body\'s organs and tissues do not receive enough oxygen and nutrients. Here are the first aid steps for shock;\n
+1.Call for emergency medical services  or 999 immediately.\n
+2.Have the person lie down: If the person is conscious and able to lie down, have them do so.\n
+3.Elevate the person\'s legs: If possible, elevate the person\'s legs to improve blood flow to the heart.\n
+4.Cover the person with a blanket: Cover the person with a blanket to keep them warm.\n
+    </string>
+    <string name="Meningitis">
+        <b>What to do when someone has meningitis\n\n</b>
+        Meningitis is an inflammation of the protective membranes covering the brain and spinal cord. Here are the first aid steps for meningitis:\n
+1.Call for emergency medical services (EMS) or 911 immediately.\n
+2.Provide comfort: Keep the person calm and comfortable while waiting for medical assistance.\n
+3.Monitor symptoms: Watch for symptoms such as fever, headache, and stiff neck, and seek medical attention if they occur or worsen.\n
+    </string>
+    <string name="Coronavirus">
+        <b>What to do when you suspect someone has the CoronaVirus\n\n</b>
+        Coronavirus is a highly contagious respiratory illness caused by the novel coronavirus (COVID-19) virus.\n Here are the first aid steps for coronavirus:\n
+1.Encourage the person to seek medical attention:\n If the person has symptoms of COVID-19, encourage them to seek medical attention and follow the advice of their healthcare provider.\n
+2.Practice good hygiene: \nEncourage the person to practice good hygiene, such as washing their hands frequently and wearing a mask when in public.\n
+3.Monitor symptoms:\n Watch for symptoms such as fever, cough, and shortness of breath, and seek medical attention if they occur or worsen.\n
+4.Follow public health guidelines:\n Follow public health guidelines and recommendations to help prevent the spread of COVID-19.\n
+    </string>
+    <string name="Stings_or_bites">
+        <b>How do I treat animal bites and scratches?\n\n</b>
+Sometimes a seemingly friendly dog or cat can bite or scratch.
+        \nIf you or your child gets a bite, follow these steps to treat the wound:\n
+•	Hold a towel or gauze to the area to stop the bleeding.\n
+•	Clean the wound with soap and water.\n
+•	Cover it with a clean bandage or gauze pad.\n\n
+<b>When should I see a doctor for an animal bite?\n\n</b>
+For any animal bite, you may need an antibiotic to prevent infection. So it’s always a good idea to call your doctor, especially if you have medical conditions that weaken your immune system.\n Also, you should call your doctor or head to the emergency room if:\n
+•	The bite was caused by an animal you don’t know, or by any wild animal like a raccoon, skunk, or bat.\n You may need a tetanus or rabies vaccine.\n
+•	The bite is large, or it doesn’t stop bleeding after you’ve held pressure on it for 15 minutes.\n It may need to be closed with stitches.\n
+•	You think the bite may have damaged a bone, tendons, or nerves, because you can’t bend or straighten the body part or you’ve lost feeling in it.\n
+•	The wound is red, swollen, or oozing fluid.\n</string>
+    <string name="Strain_and_sprains">
+        Sprains:\n
+Identification: Symptoms may include pain, swelling, and/or bruising at the site of the injury.\n The person may also have difficulty moving the affected joint.\n
+Steps to take: Rest, ice, compression, and elevation (RICE) are the key steps in treating a sprain.\n Rest the affected joint and avoid any activities that may aggravate the injury. Apply ice to the area for 20 minutes at a time, several times a day.\n Compress the injury with an elastic bandage or brace to reduce swelling, and elevate the injured limb above heart level to decrease swelling.\n\n
+
+Strains:\n\n
+Identification: Symptoms may include pain, stiffness, and/or weakness in the affected muscle or tendon.\n
+Steps to take: RICE is also the recommended treatment for strains. \nRest the affected muscle and avoid any activities that may cause further strain.\n Apply ice to the area for 20 minutes at a time, several times a day.\n Compress the area with an elastic bandage or brace to reduce swelling, and elevate the injured limb above heart level to decrease swelling.\n\n
+
+In addition to RICE, the ACEP recommends taking over-the-counter pain relievers like acetaminophen or ibuprofen to help manage pain and inflammation.\n If the injury is severe, or if the person is unable to bear weight on the affected limb, seek medical attention immediately.\n
+    </string>
+    <string name="Stroke">
+    <b>First steps if you think someone is having a stroke\n\n</b>
+    During a stroke, time is of the essence. Call emergency services and get to the hospital immediately.\n
+    A stroke may cause loss of balance or unconsciousness, which may result in a fall. If you think you or someone around you may be having a stroke, follow these steps:\n
+    •	Call emergency services. If you’re having stroke symptoms, have someone else call for you. Stay as calm as possible while waiting for emergency help.\n
+    •	If you’re caring for someone else having a stroke, make sure they’re in a safe, comfortable position. Preferably, this should be lying on one side with their head slightly raised and supported in case they vomit.\n
+    •	Check to see if they’re breathing. If they’re not breathing, perform CPR. If they’re having difficulty breathing, loosen any constrictive clothing, such as a tie or scarf.\n
+    •	Talk in a calm, reassuring manner.\n
+    •	Cover them with a blanket to keep them warm.\n
+    •	Don’t give them anything to eat or drink.\n
+    •	If the person is showing any weakness in a limb, avoid moving them.\n
+    •	Observe the person carefully for any change in condition. Be prepared to tell the emergency operator about their symptoms and when they started. Be sure to mention if the person fell or hit their head.\n\n
+    <b>Know the signs of a stroke\n\n</b>
+    Depending on the severity of the stroke, symptoms may be subtle or severe. Before you can help, you need to know what to watch for. To check for warning signs of a stroke, use the FASTacronym, which stands for:\n
+    •	Face: Is the face numb or does it droop on one side?\n
+    •	Arms: Is one arm numb or weaker than the other? Does one arm stay lower than the other when trying to raise both arms?\n
+    •	Speech: Is speech slurred or garbled?\n
+    •	Time: If you answered yes to any of the above, it’s time to call emergency services immediately.\n\n
+    <b>Other stroke symptoms include:\n\n</b>
+    •	blurred vision, dim vision, or loss of vision, especially in one eye\n
+    •	tingling, weakness, or numbness on one side of the body\n
+    •	nausea\n
+    •	loss of bladder or bowel control\n
+    •	headache\n
+    •	dizziness or lightheadedness\n
+    •	loss of balance or consciousness\n
+    If you or someone else has stroke symptoms, don’t take a wait-and-see approach. Even if symptoms are subtle or go away, take them seriously. It only takes minutes for brain cells to start dying. The risk of disability decreases if clot-busting drugs are administered within 4.5 hours, according to guidelines from the American Heart Association (AHA) and American Stroke Association (ASA). These guidelines also state that mechanical clot removals can be performed up to 24 hours after the start of stroke symptoms.
+    \n
+    </string>
+    <string name="Unconscious_breathing">
+ Identification: The person is unconscious but still breathing.\n
+Steps to take: Keep the person in a safe position, with their head turned to one side to prevent choking.\n
+        Monitor their breathing and pulse and seek medical attention if necessary.\n
+    </string>
+    <string name="Unconscious_not_breathing">
+<b>Unconscious not Breathing\n\n</b>
+ Identification: The person is unconscious and not breathing.\n
+Steps to take: Begin performing CPR immediately and call 999 or ambulance.\n\n
+CPR, or cardiopulmonary resuscitation, is a life-saving technique used to help someone who is in cardiac arrest. Here are the detailed steps for performing CPR;\n
+
+1.Check for responsiveness: Tap the person\'s shoulder and shout ,Are you okay?, to see if they respond. If they do not respond, call for emergency medical services  or 999 immediately.\n
+        2.Open the airway: Tilt the person\'s head back gently and lift their chin to open the airway.\n
+        3.Check for breathing: Look, listen, and feel for breaths. Watch for the person\'s chest to rise and fall, listen for breath sounds, and feel for air coming out of their mouth.\n
+4.Start chest compressions: If the person is not breathing, begin chest compressions by placing the heel of one hand on the center of the person\'s chest, between the nipples. \n
+        Place the other hand on top of the first hand and interlace the fingers. \nPress down on the chest about 2 inches (5 centimeters) at a rate of 100 to 120 compressions per minute.\n
+5.Provide rescue breaths: Pinch the person\'s nose shut and give two breaths into their mouth. Each breath should last about 1 second and make the person\'s chest rise.\n
+6.Repeat cycles of compressions and breaths: Continue performing cycles of 30 compressions followed by 2 breaths until EMS arrives or the person starts breathing on their own.\n
+7.Use an automated external defibrillator, AED: If an AED is available, follow the instructions provided with the device to attach the pads and deliver a shock if needed.\n
+        Follow the instructions of the emergency operator and continue performing CPR until medical help arrives.\n
+
+    </string>
+    <string name="Drowning">
+        Drowning is a serious medical emergency and requires immediate action. Here are the first aid steps for drowning;\n
+1.Remove the person from the water: If the person is still in the water, carefully remove them while supporting their head and neck.\n
+2.Check for breathing and pulse: If the person is not breathing or has no pulse, begin CPR immediately.\n
+3.Call for emergency medical services : If someone is available, have them call EMS or 999while you begin CPR.\n
+4.Begin CPR: Start with chest compressions. Place the heel of one hand on the center of the person\'s chest, between the nipples. Place the other hand on top of the first hand and interlace the fingers. \n
+        Press down on the chest about 2 inches or 5 centimeters at a rate of 100 to 120 compressions per minute. After 30 compressions, give 2 breaths into the person\'s mouth.\n
+        Repeat cycles of 30 compressions and 2 breaths until EMS arrives or the person starts breathing on their own.\n
+5.Use an automated external defibrillator (AED): If an AED is available, follow the instructions provided with the device to attach the pads and deliver a shock if needed.\n
+
+It\'s important to remember that drowning can cause serious complications, such as brain damage, even if the person is revived. Therefore, it is essential to seek medical attention as soon as possible.\n Additionally, prevention is the key to avoiding drowning accidents.\n
+        Always supervise children and inexperienced swimmers, wear appropriate safety gear, and follow water safety guidelines when swimming, boating, or engaging in other water activities.\n
+    </string>
+    <string name="Nosebleed">
+        <b>How do I treat a nosebleed?\n\n</b>
+Nosebleeds usually look a lot worse than they are. Most of the time you can stop the flow with a few simple steps:\n
+1.	Lean the head slightly forward, so blood doesn’t run down the throat.\n
+2.	With a tissue or washcloth, gently press the nostrils together to stop the bleeding.\n
+3.	Hold the nose for at least 5 minutes. Then check to see if the bleeding has stopped. If it hasn’t stopped, gently squeeze for another 10 minutes.\n
+    </string>
+    <string name="Emergency_Kit">
+             <b>What should be in my first aid kit?\n\n</b>
+1.	Adhesive tape\n
+2.	Alcohol wipes\n
+3.	Allergy medicine\n
+4.	Aloe vera gel\n
+5.	Antibiotic ointment\n
+6.	Bandages in different sizes\n
+7.	Calamine lotion\n
+8.	Cold packs\n
+9.	Elastic bandages\n
+10.	Gauze rolls and pads\n
+11.	Hand sanitizer (for your travel first aid kit)\n
+12.	Hydrocortisone cream\n
+13.	Latex-free gloves\n
+14.	Pain relievers like acetaminophen and ibuprofen\n
+15.	Saline wound wash\n
+16.	Scissors and tweezers\n
+    </string>
+    <string name="Drought">
+        <b>What to do during a drought?\n\n</b>
+        A drought is a prolonged period of abnormally low rainfall that can result in water shortages and crop damage. To prepare for a drought, you should:\n
+1.Store enough water for drinking and other essential uses.\n
+2.Reduce water use by fixing leaks and taking shorter showers.\n
+3.Follow local water restrictions and conservation guidelines.\n
+    </string>
+    <string name="Earthquake">
+        <b>What to do during an earthquake?\n\n</b>
+        An earthquake is a sudden shaking of the earth\'s surface caused by the shifting of tectonic plates. If you experience an earthquake, you should:\n
+1.Drop, Cover, and Hold On: Drop to the ground, take cover under a sturdy desk or table, and hold on until the shaking stops.\n
+2.Stay away from windows, heavy furniture, and other objects that could fall or break.\n
+3.Evacuate the building if instructed to do so by local authorities\n
+    </string>
+    <string name="Everyday_Emergencies">
+        <b>For Everyday Emergencies\n\n</b>
+        Everyday emergencies can include minor injuries, illnesses, and accidents. To be prepared for everyday emergencies, you should:\n
+1.Keep a first aid kit on hand with basic medical supplies.\n
+2.Learn CPR and other life-saving skills.\n
+3.Have emergency phone numbers readily available.\n
+    </string>
+    <string name="Fire">
+        <b>What to do in case of a Fire?\n\n</b>
+        A fire can occur due to a variety of reasons, including cooking accidents, electrical malfunctions, and natural disasters. If you encounter a fire, you should:\n
+1.Call 999 immediately.\n
+2.Evacuate the building if safe to do so.\n
+3.If trapped, try to find a way to block smoke from entering the room and signal for help from a window.\n
+    </string>
+    <string name="Flooding">
+        <b>What to do when it is Flooding?\n\n</b>
+        Flooding can occur due to heavy rain, snowmelt, and other natural disasters.\n To prepare for a flood, you should:\n
+1.Stay informed of weather conditions and evacuation orders.\n
+2.Move valuable items to higher ground.\n
+3.Do not attempt to drive through flooded areas.\n
+    </string>
+    <string name="Food_Safety">
+        <b>How Is Food Poisoning Treated?\n\n</b>
+In most cases, there isn’t much your doctor can specifically do for you, and you get better on your own within a few days.\n
+Adults or children who lose a lot of fluids — this is called dehydration — may need to go the hospital to get an IV. This will replace your fluids and electrolytes more quickly.\n
+For severe food poisoning caused by certain bacteria, such as listeria, you may get antibiotics.\n
+But with most bacteria, you may not get any medication unless you have a weak immune system or you’re pregnant.\n
+You may also get medicine for food poisoning caused by parasites. For viruses, there’s nothing you can take.\n\n
+        <b>What Can I Do at Home?\n\n</b>
+Diarrhea and vomiting can really throw off your body’s balance of fluids and electrolytes.\n
+Electrolytes are minerals, such as sodium and potassium, that help with everything from keeping your heartbeat normal to controlling how much water is in your body.\n
+So your main job is to drink plenty of fluids. Start with ice chips or small sips if you need to. It’s also helpful to:\n
+1.	Avoid food for the first few hours as your stomach settles down\n
+2.	Drink water, broth, or an electrolyte solution, which will replace the minerals that you lose with vomiting and diarrhea\n
+3.	Eat when you feel ready, but start with small amounts of bland, nonfatty foods such as toast, rice, and crackers\n
+4.	Get plenty of rest\n
+5.	Stay away from dairy, caffeine, alcohol, bubbly or fizzy drinks, or spicy and fatty foods — they can just make everything worse\n\n
+        <b>When Should I Call My Doctor?\n\n</b>
+Though food poisoning usually goes away on its own, call your doctor if you have any signs of dehydration:\n
+1.	Dry mouth or extreme thirst\n
+2.  Not peeing much (or at all) or dark, concentrated urine\n
+3.	Rapid heartbeat or low blood pressure\n
+4.	Weakness, dizziness, or a lightheaded feeling, especially when going from lying down or sitting to standing\n
+4.	Confusion\n
+Also call your doctor if you see any of these symptoms:\n
+•	Blood in your vomit or poop\n
+•	Blurry vision\n
+•	Diarrhea for more than 3 days\n
+•	Extreme pain or cramps in your belly\n
+•	Fever over 101.5 F\n
+•	Throwing up that won’t stop — you can’t even keep liquids down\n
+•	Tingling in your arms\n
+•	Weakness in your muscles\n
+    </string>
+    <string name="Heatwave">
+        <b>What do you do during a heatwave?\n\n</b>
+        A heatwave is a prolonged period of abnormally high temperatures that can cause dehydration and heatstroke. To prepare for a heatwave, you should:\n
+1.Stay hydrated by drinking plenty of water.\n
+2.Stay indoors in air-conditioned buildings during the hottest part of the day.\n
+3.Wear light-colored, loose-fitting clothing.\n
+    </string>
+    <string name="Power_Outage">
+        <b>What to do during a power outage?\n\n</b>
+        A power outage can occur due to severe weather, equipment failure, or other causes. If you experience a power outage, you should:\n
+
+1.Stay calm and conserve resources.\n
+2.Use flashlights or other battery-powered devices for lighting.\n
+3.Do not use a generator indoors, and follow proper safety precautions if using one outdoors.\n
+    </string>
+    <string name="Pet_Preparedness">
+        Pet preparedness is important to ensure your pets are safe in the event of an emergency.\n To prepare for an emergency with your pet, you should;\n
+1.Have a pet emergency kit with food, water, medications, and other supplies.\n
+2.Keep your pet\'s identification and vaccination records up to date.\n
+3.Identify pet-friendly evacuation shelters or make arrangements with friends or family in advance.\n
+    </string>
+    <string name="Water_Safety">
+        Water safety is important to prevent drowning and other water-related injuries. To ensure water safety, you should:\n\n
+1.Supervise children when they are in or near water.\n
+2.Wear a life jacket when boating or participating in water activities.\n
+3.Learn how to perform CPR and other life-saving skills.\n
+    </string>
+    <string name="Landslide">
+        <b>What to do in case of a landslide?\n\n</b>
+        A landslide occurs when soil, rock, or other materials move down a slope. If you experience a landslide, you should:\n\n
+1.Move to a safe location if possible.\n
+2.Avoid areas downhill from the slide.\n
+3.Stay informed of the potential for additional slides.\n
+    </string>
+    <string name="Tsunami">
+        <b>What do in case of a Tsunami\n\n</b>
+        A tsunami is a series of ocean waves caused by an underwater earthquake, landslide, or volcanic eruption. If you experience a tsunami, you should:\n
+1.Move inland to higher ground as quickly as possible.\n
+2.Follow the instructions of local authorities and evacuation orders.\n
+3.Do not return to the coast until officials indicate it is safe to do so.\n
+    </string>
+    <string name="Wild_fires">
+        Wildfires can occur due to dry weather, lightning strikes, or human causes. If you experience a wildfire, you should:\n
+1.Evacuate if instructed to do so by local authorities.\n
+2.Protect your home by removing flammable materials from around the property.\n
+3.Stay informed of weather conditions and evacuation orders.\n
+    </string>
+    <string name="About">
+        This is a First Aid Android App created to provide first aid procedures that a user can learn and use in their everyday life.
+        \n It was created by Valerie Kerubo.
+    </string>
+    <string name="Share">
+        Share with your Friends
+    </string>
+</resources>
